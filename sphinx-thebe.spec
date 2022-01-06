@@ -4,7 +4,7 @@
 #
 Name     : sphinx-thebe
 Version  : 0.0.10
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/ad/b7/fc550d247f8792b4fa67fdfad9dd16ac22011c5508d944daf1ed25aded84/sphinx-thebe-0.0.10.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ad/b7/fc550d247f8792b4fa67fdfad9dd16ac22011c5508d944daf1ed25aded84/sphinx-thebe-0.0.10.tar.gz
 Summary  : Integrate interactive code blocks into your documentation with Thebe and Binder.
@@ -58,7 +58,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1637595310
+export SOURCE_DATE_EPOCH=1641427273
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
